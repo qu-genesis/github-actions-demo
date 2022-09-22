@@ -9,7 +9,7 @@ This is a repo for building out Github Actions and Tricks.  I test multiple clou
 ### To use my project you can do this
 
 Create a virtualenv
-```python3 -m venv ~/.github-actions-demo```
+```python3 -m venv ~/venv```
 
 Source it
-```source ~/.github-actions-demo/bin/activate```
+```source ~/venv/bin/activate```
